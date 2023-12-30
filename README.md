@@ -1,6 +1,7 @@
  You can call me Sutz or Vi
  
- I'm a begginer programmer. I'm learning JavaScript and web development through The Odin Project<br>
+ Beginner programmer. Currently learning JavaScript and web development<br>
+ Most of my repositories are private for personal reasons<br>
 
  ### Social
 - Discord: **visutz**
