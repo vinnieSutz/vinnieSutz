@@ -1,6 +1,6 @@
  You can call me Sutz or Vi
  
- Beginner programmer. Currently learning JavaScript and web development<br>
+ Currently learning JavaScript and web development<br>
  Most of my repositories are private for personal reasons<br>
 
  ### Social
