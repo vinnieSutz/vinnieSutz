@@ -1,6 +1,6 @@
  You can call me Sutz whenever not using my Github username<br>
  16yo from [south](https://en.wikipedia.org/wiki/Paran%C3%A1_(state)) Brazil 🇧🇷<br>
- Regarding spoken languagues:
+ Regarding spoken languages:
  + My native languague is Brazilian Portuguese
  + Comfortable with English (although not a good speaker haha)
  + Spanish isn't a big issue for me either[^1]
