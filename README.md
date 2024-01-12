@@ -13,4 +13,5 @@
 
  ### Social
 - Discord: **visutz**
-  - `If you want to contact me or just chat about anything`
+  - `If you want to contact me or just chat about anything`<br>
+    `(always active there!!!)`
