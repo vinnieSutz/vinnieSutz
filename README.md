@@ -8,7 +8,7 @@
  [^1]: Iberic languagues are similar. No trouble reading spanish text at all
  
 
- Currently learning JavaScript and web development!!!<br>
+ Currently learning JavaScript and web development!!! And Typescript eventually :D<br>
  Most of my repositories are private for personal reasons<br>
 
  ### Social
